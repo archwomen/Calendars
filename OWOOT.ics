@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:Oceania Women of Open Tech (OWOOT) |  May 14 2012- August 12 2012
+PRODID:-//strange bird labs//Drupal iCal API//EN
+BEGIN:VEVENT
+DTSTAMP;VALUE=DATE-TIME:20120514T023959Z
+DTSTART;VALUE=DATE-TIME:20120701T120500Z
+DTEND;VALUE=DATE-TIME:20020203
+UID:http://owoot.org/content/google-anita-borg-memorial-scholarship-australia-and-new-zealand-1
+URL;VALUE=URI:http://owoot.org/content/google-anita-borg-memorial-scholarship-australia-and-new-zealand-1
+SUMMARY:Google Anita Borg Memorial Scholarship\: Australia and New Zealand 
+DESCRIPTION:<blockquote><p>As part of Google’s ongoing commitment to furthering Anita’s vision\, we are pleased to announce the 2012 Google Australia and New Zealand Anita Borg Memorial Scholarship. Through the scholarship\, we aim to encourage women to excel in computing and technology\, and become active role models and leaders.</p>
+ <p>Scholarships will be awarded based on the strength of candidates’ academic background and demonstrated leadership. A group of female undergraduate and graduate student finalists will be chosen from the applicant pool. Each scholar recipient will receive a $5\,000 scholarship towards the following academic year. In addition all finalists and scholarship recipients will be invited to an expenses-paid networking retreat to be held at Google’s Sydney Engineering centre.</p>
+ </blockquote>
+END:VEVENT
+END:VCALENDAR
