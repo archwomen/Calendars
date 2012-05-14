@@ -1,0 +1,736 @@
+BEGIN:VCALENDAR
+PRODID:-//Mozilla.org/NONSGML Mozilla Calendar V1.1//EN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:Australia/Sydney
+X-LIC-LOCATION:Australia/Sydney
+BEGIN:STANDARD
+TZOFFSETFROM:+1100
+TZOFFSETTO:+1000
+TZNAME:EST
+DTSTART:19700405T030000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=4
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+1000
+TZOFFSETTO:+1100
+TZNAME:EST
+DTSTART:19701004T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=10
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+CREATED:20120428T000122Z
+LAST-MODIFIED:20120428T000122Z
+DTSTAMP:20120514T054803Z
+UID:8t1kp06nsidieje40av4o7ptkk@google.com
+SUMMARY:Deadline for AdaCamp applications
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20120615
+DTEND;VALUE=DATE:20120616
+SEQUENCE:0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20120428T000056Z
+LAST-MODIFIED:20120428T000056Z
+DTSTAMP:20120514T054803Z
+UID:oltsrr192k48picobqvpuuf5c8@google.com
+SUMMARY:Deadline for AdaCamp travel assistance applications
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20120511
+DTEND;VALUE=DATE:20120512
+SEQUENCE:0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20120413T040548Z
+LAST-MODIFIED:20120427T235956Z
+DTSTAMP:20120514T054803Z
+UID:k69ve5lea1m0rabp8emgnjk87s@google.com
+SUMMARY:AdaCamp DC
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20120710
+DTEND;VALUE=DATE:20120712
+DESCRIPTION:http://dc.adacamp.org/
+SEQUENCE:0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20120420T014420Z
+LAST-MODIFIED:20120420T014420Z
+DTSTAMP:20120514T054803Z
+UID:l4beba13phbqoc31gp3an6q36s@google.com
+SUMMARY:Ada Lovelace Day
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20121016
+DTEND;VALUE=DATE:20121017
+DESCRIPTION:http://findingada.com/
+SEQUENCE:0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20120412T043055Z
+LAST-MODIFIED:20120412T043055Z
+DTSTAMP:20120514T054803Z
+UID:s140cp27m1suanr63rh8ad5vg8@google.com
+SUMMARY:Indianapolis Python Workshop
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20120413
+DTEND;VALUE=DATE:20120415
+DESCRIPTION:https://openhatch.org/wiki/Indianapolis_Python_Workshop
+SEQUENCE:0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20120403T035604Z
+LAST-MODIFIED:20120403T035623Z
+DTSTAMP:20120514T054803Z
+UID:a9igvqb5gasd3obr2bhkiabr5c@google.com
+SUMMARY:Grace Hopper Celebration scholarship app deadline
+STATUS:CONFIRMED
+ATTENDEE;CN=Ada Initiative;PARTSTAT=ACCEPTED;CUTYPE=INDIVIDUAL;ROLE=REQ-PA
+ RTICIPANT;X-NUM-GUESTS=0:mailto:7kvkbb0gspammqqg5vv1efrqh0@group.calendar.
+ google.com
+DTSTART;VALUE=DATE:20120515
+DTEND;VALUE=DATE:20120516
+DESCRIPTION:http://gracehopper.org/2012/participate/scholarships/
+SEQUENCE:0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20120331T213514Z
+LAST-MODIFIED:20120331T213514Z
+DTSTAMP:20120514T054803Z
+UID:ra374m885b00g8bq4o4u87kpk8@google.com
+SUMMARY:Deadline for Twisted internship
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20120406
+DTEND;VALUE=DATE:20120407
+DESCRIPTION:http://twistedmatrix.com/trac/wiki/WomenOutreach2012
+SEQUENCE:0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20120323T212719Z
+LAST-MODIFIED:20120323T212719Z
+DTSTAMP:20120514T054803Z
+UID:gmji7rb39eerdfcei1pgtfa9gk@google.com
+SUMMARY:Transparency Camp - Open data\, open government
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20120428
+DTEND;VALUE=DATE:20120430
+DESCRIPTION:http://transparencycamp.org/
+LOCATION:Washington\, D.C.
+SEQUENCE:0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20120314T043807Z
+LAST-MODIFIED:20120314T043807Z
+DTSTAMP:20120514T054803Z
+UID:f4ea7t6cu0vmqbjjqj5p5s51vg@google.com
+SUMMARY:Flossie
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20120525
+DTEND;VALUE=DATE:20120527
+DESCRIPTION:http://www.flossie.org/
+LOCATION:Queen Mary\, University of London\, Mile End Road\, E1 4NS
+SEQUENCE:0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20120314T043712Z
+LAST-MODIFIED:20120314T043726Z
+DTSTAMP:20120514T054803Z
+UID:p36ql851ikitrpuqbj2g0igd10@google.com
+SUMMARY:Deadline for Flossie submissions
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20120319
+DTEND;VALUE=DATE:20120320
+DESCRIPTION:http://www.flossie.org/?page_id=175
+SEQUENCE:0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20120228T075741Z
+LAST-MODIFIED:20120228T075741Z
+DTSTAMP:20120514T054803Z
+UID:2pmbq3iffdj4v9te32cut6dl3c@google.com
+SUMMARY:Deadline for GNOME Women's Outreach Program (May to Aug internship
+ s)
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20120406
+DTEND;VALUE=DATE:20120407
+SEQUENCE:0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20120126T205407Z
+LAST-MODIFIED:20120126T205407Z
+DTSTAMP:20120514T054803Z
+UID:2rpsmf8il7hkqusfjh9vviguf4@google.com
+SUMMARY:Deadline for Grace Hopper submissions
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20120316
+DTEND;VALUE=DATE:20120317
+DESCRIPTION:http://gracehopper.org/2012/participate/call-for-participation
+ /
+SEQUENCE:0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20120124T101553Z
+LAST-MODIFIED:20120124T101554Z
+DTSTAMP:20120514T054803Z
+UID:83iaddggbffdlge0d4tabkltck@google.com
+SUMMARY:Deadline for Wikimania scholarship applications
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20120216
+DTEND;VALUE=DATE:20120217
+DESCRIPTION:https://secure.wikidc.org/wm/schols/
+SEQUENCE:0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20120112T075436Z
+LAST-MODIFIED:20120112T075436Z
+DTSTAMP:20120514T054803Z
+UID:sd89v6s6s3a64j14atpmgq0ab8@google.com
+SUMMARY:WisCon
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20120525
+DTEND;VALUE=DATE:20120529
+DESCRIPTION:http://www.wiscon.info/
+LOCATION:Madison\, Wisconsin
+SEQUENCE:0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20111118T033433Z
+LAST-MODIFIED:20120106T201507Z
+DTSTAMP:20120514T054803Z
+UID:uend74rmd904m0k6vpq49ppk1o@google.com
+SUMMARY:Ada Initiative IRC Chat
+STATUS:CONFIRMED
+RRULE:FREQ=MONTHLY;BYDAY=1FR
+DTSTART;TZID=Australia/Sydney:20120203T080000
+DTEND;TZID=Australia/Sydney:20120203T090000
+DESCRIPTION:Network: Freenode\nIRC server: chat.freenode.net\nChannel: #ad
+ ainitiative\n\nA web chat interface is available at http://webchat.freenod
+ e.net/ Enter a nickname of your choice in \"Nickname\" and \"#adainitiativ
+ e\" in \"Channels\". \n\nIf you want can you may join the channel now if y
+ ou want to make sure you see the meeting.
+LOCATION:#adainitiative on Freenode IRC
+SEQUENCE:4
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20111118T033433Z
+LAST-MODIFIED:20120405T203102Z
+DTSTAMP:20120514T054803Z
+UID:uend74rmd904m0k6vpq49ppk1o@google.com
+SUMMARY:Ada Initiative IRC Chat
+STATUS:CONFIRMED
+RECURRENCE-ID;TZID=Australia/Sydney:20120504T080000
+DTSTART;TZID=Australia/Sydney:20120504T010000
+DTEND;TZID=Australia/Sydney:20120504T020000
+DESCRIPTION:Network: Freenode\nIRC server: chat.freenode.net\nChannel: #ad
+ ainitiative\n\nA web chat interface is available at http://webchat.freenod
+ e.net/ Enter a nickname of your choice in \"Nickname\" and \"#adainitiativ
+ e\" in \"Channels\". \n\nIf you want can you may join the channel now if y
+ ou want to make sure you see the meeting.
+LOCATION:#adainitiative on Freenode IRC
+SEQUENCE:5
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20111118T033433Z
+LAST-MODIFIED:20120106T201507Z
+DTSTAMP:20120514T054803Z
+UID:r1rc5inf5e78jrp4qirb4qk3rc@google.com
+SUMMARY:Ada Initiative IRC Chat
+STATUS:CONFIRMED
+RRULE:FREQ=MONTHLY;UNTIL=20120202T125959Z;BYDAY=1FR
+DTSTART;TZID=Australia/Sydney:20111202T103000
+DTEND;TZID=Australia/Sydney:20111202T113000
+DESCRIPTION:Network: Freenode\nIRC server: chat.freenode.net\nChannel: #ad
+ ainitiative\n\nA web chat interface is available at http://webchat.freenod
+ e.net/ Enter a nickname of your choice in \"Nickname\" and \"#adainitiativ
+ e\" in \"Channels\". \n\nIf you want can you may join the channel now if y
+ ou want to make sure you see the meeting.
+LOCATION:#adainitiative on Freenode IRC
+SEQUENCE:3
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20111118T033433Z
+LAST-MODIFIED:20120106T201507Z
+DTSTAMP:20120514T054803Z
+UID:r1rc5inf5e78jrp4qirb4qk3rc@google.com
+SUMMARY:Ada Initiative IRC Chat
+STATUS:CONFIRMED
+RECURRENCE-ID;TZID=Australia/Sydney:20111202T103000
+DTSTART;TZID=Australia/Sydney:20111209T103000
+DTEND;TZID=Australia/Sydney:20111209T113000
+DESCRIPTION:Network: Freenode\nIRC server: chat.freenode.net\nChannel: #ad
+ ainitiative\n\nA web chat interface is available at http://webchat.freenod
+ e.net/ Enter a nickname of your choice in \"Nickname\" and \"#adainitiativ
+ e\" in \"Channels\". \n\nIf you want can you may join the channel now if y
+ ou want to make sure you see the meeting.
+LOCATION:#adainitiative on Freenode IRC
+SEQUENCE:4
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20111101T025632Z
+LAST-MODIFIED:20120103T034336Z
+DTSTAMP:20120514T054803Z
+UID:iptikvu1tecvmf2rse3hnm2jrs@google.com
+SUMMARY:AdaCamp Melbourne
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20120114
+DTEND;VALUE=DATE:20120115
+DESCRIPTION:http://adainitiative.org/what-we-do/events/adacamp-mel-2012/
+SEQUENCE:1
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20111221T035731Z
+LAST-MODIFIED:20111221T035731Z
+DTSTAMP:20120514T054803Z
+UID:nbamt9nr45nlbdvvtktbh45am8@google.com
+SUMMARY:Girl Geek Dinner with AdaCampers
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20120114
+DTEND;VALUE=DATE:20120115
+DESCRIPTION:RSVP and pay at http://ggdmelb-jan2012.eventbrite.com.au/
+LOCATION:Merri Table & Bar\, cnr Roberts and Stewart Street Brunswick East
+ \, 3057
+SEQUENCE:0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20110908T004956Z
+LAST-MODIFIED:20111220T093755Z
+DTSTAMP:20120514T054803Z
+UID:u7skdrjrh0454g6m7hjq9e4srk@google.com
+SUMMARY:Haecksen / LinuxChix Miniconf at linux.conf.au
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20120116
+DTEND;VALUE=DATE:20120117
+DESCRIPTION:This event is held in conjunction with linux.conf.au.\n\nFor m
+ ore details\, please see http://linux.conf.au/media/news/31
+LOCATION:Ballarat\, Victoria\, Australia
+SEQUENCE:2
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20111220T093546Z
+LAST-MODIFIED:20111220T093546Z
+DTSTAMP:20120514T054803Z
+UID:3ndphhe4sgk8e39tdsjntmofk8@google.com
+SUMMARY:Deadline for PyCon US grants (from PyLadies/PSF)
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20120131
+DTEND;VALUE=DATE:20120201
+LOCATION:http://pyladies.com/blog/call-for-applications-and-sponsors-for-p
+ yladies-pycon-us-2012/
+SEQUENCE:0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20111212T232210Z
+LAST-MODIFIED:20111212T232221Z
+DTSTAMP:20120514T054803Z
+UID:9mb2vbvsvcfg5efigb1e7pvfok@google.com
+SUMMARY:She's Geeky Bay Area
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20120127
+DTEND;VALUE=DATE:20120130
+DESCRIPTION:http://www.shesgeeky.org/sg/future-events/shes-geeky-10-bay-ar
+ ea-5-january-27-29/
+SEQUENCE:0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20111207T210646Z
+LAST-MODIFIED:20111207T210646Z
+DTSTAMP:20120514T054803Z
+UID:hhcju5l4cth3c3jqnarojnp72k@google.com
+SUMMARY:Deadline for Wikimedia Community Fellowship applications
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20120115
+DTEND;VALUE=DATE:20120116
+DESCRIPTION:https://meta.wikimedia.org/wiki/Wikimedia_Fellowships
+SEQUENCE:0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20111205T071252Z
+LAST-MODIFIED:20111205T071252Z
+DTSTAMP:20120514T054803Z
+UID:adhtimja6nqvnhbpo128rh6cp8@google.com
+SUMMARY:AdaCamp Melbourne application deadline
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20111214
+DTEND;VALUE=DATE:20111215
+DESCRIPTION:Apply to attend AdaCamp in Melbourne in January.\n\nhttp://ada
+ initiative.org/what-we-do/events/adacamp-mel-2012/attend/
+SEQUENCE:0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20111108T025036Z
+LAST-MODIFIED:20111108T025052Z
+DTSTAMP:20120514T054803Z
+UID:k2oi45dv7e5h5nig1u9aapbrj4@google.com
+SUMMARY:Ada Initiative IRC Chat
+STATUS:CONFIRMED
+DTSTART:20111117T233000Z
+DTEND:20111118T003000Z
+DESCRIPTION:Network: Freenode\nIRC server: chat.freenode.net (see Freenode
+  server information<http://freenode.net/irc_servers.shtml>for more info) \
+ nChannel: #adainitiative \n\n A web chat interface is available at http://
+ webchat.freenode.net/ Enter a nickname of your choice in \"Nickname\" and 
+ \"#adainitiative\" in \"Channels\".\n\nThe next chat will be on Thursday 1
+ 7 November at 2330 UTC\, for your local\ntime please see Time and Date's\n
+ listing<http://timeanddate.com/worldclock/fixedtime.html?day=17&month=11&y
+ ear=2011&hour=23&min=30&sec=0&p1=0>\n.\n\nIf you want can you may join the
+  channel now if you want to make sure you\nsee the meeting.\n\nNote on cha
+ nnel moderation\n\nWe're not up to following or moderating a fulltime chat
+  channel\, so the\nchannel will be set to voice-only (which will mean most
+  people can't\ncommunicate with the channel) when a public chat isn't taki
+ ng place. You're\nwelcome to lurk in there fulltime if that's easier for y
+ our IRC client\, but\nthere won't be activity there outside regular meetin
+ gs.\n\nIf you have any concerns about the channel or anything that happens
+  in it\,\ncontact info@adainitiative.org.\n*\n\n
+LOCATION:Network: Freenode IRC server: chat.freenode.net (see Freenode ser
+ ver information<http://freenode.net/irc_servers.shtml>for more info) Chann
+ el: #adainitiative  A web chat interface is available at http://webchat.fr
+ eenode.net/ Enter a nickname of your choice in \"Nickname\" and \"#adainit
+ iative\" in \"Channels\".
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20111018T021004Z
+LAST-MODIFIED:20111018T021004Z
+DTSTAMP:20120514T054803Z
+UID:a6ck6gpnrbvdggip86g6b5ro2s@google.com
+SUMMARY:Grace Hopper Celebration India
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20111214
+DTEND;VALUE=DATE:20111217
+LOCATION:http://htl.li/1ytSzU
+SEQUENCE:0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20111018T020821Z
+LAST-MODIFIED:20111018T020821Z
+DTSTAMP:20120514T054803Z
+UID:phgfg797ts3dk98ivdd3co32j0@google.com
+SUMMARY:Deadline for Grace Hopper Celebration of Women in Computing India
+ 
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20111210
+DTEND;VALUE=DATE:20111211
+LOCATION:https://twitter.com/#!/ghc/status/124705140577021952
+SEQUENCE:0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20111007T010005Z
+LAST-MODIFIED:20111007T010005Z
+DTSTAMP:20120514T054803Z
+UID:o3rt6v9imp58ar7vkpogeg73pg@google.com
+SUMMARY:Code 'n' Splode: Topic TBD
+STATUS:CONFIRMED
+DTSTART:20111026T020000Z
+DTEND:20111026T040000Z
+DESCRIPTION:Note: Code-n-Splode (CnS) is a women-focused group. All women 
+ are invited to attend and participate\, and men are welcome as the guest o
+ f a female participant.\n\nFor more information\, visit http://codeandsplo
+ de.org/\, or send an email to our mailing list at http://groups.google.com
+ /group/code-n-splode?pli=1.\n\nAccess Notes\n\nBuzz \"200\" when you arriv
+ e. The phone rings once or twice\, then you'll be buzzed up.\nElevator acc
+ ess available.\nIndoor bike parking available upstairs.\nLocated on the Gr
+ een and Yellow MAX lines.\nCar parking within a few blocks.\n
+LOCATION:322 NW 6th Avenue\, Suite 200 Portland\, OR 97209\, US
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20111003T202051Z
+LAST-MODIFIED:20111003T202240Z
+DTSTAMP:20120514T054803Z
+UID:t4kce7jtkq2cjk06ggpk7qp4b8@google.com
+SUMMARY:KDE Tutorial (\"for women and their friends\"): Building your own 
+ launcher
+STATUS:CONFIRMED
+DTSTART:20111007T140000Z
+DTEND:20111007T150000Z
+DESCRIPTION:In this tutorial\, you will create a basic application launche
+ r for KDE. Yes\, a full-fledged one you can then have fun in turning into 
+ a real “start menu” with your new skills. While doing that\, Dario wil
+ l teach you the basics of KDE\, Qt and QML\, which will empower you to cre
+ ate your first shiny application.\n\nTo sign up\, go to: https://docs.goog
+ le.com/spreadsheet/viewform?formkey=dG5CM1g1WVpHc3BwZWtfVUl1c2lLYlE6MQ
+LOCATION:#kde-tutorials on freenode. (You can use the webchat if you don
+ ’t already have a working IRC client.)
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20111003T201732Z
+LAST-MODIFIED:20111003T202026Z
+DTSTAMP:20120514T054803Z
+UID:6kdkiaudi5ja8qerna71fobah4@google.com
+SUMMARY:KDE Tutorial (\"for women and their friends\"): How To Help With B
+ ug Reports
+STATUS:CONFIRMED
+DTSTART:20111007T160000Z
+DTEND:20111007T170000Z
+DESCRIPTION:Coding in a Free Software project is a very important part\, b
+ ut by far not the only one. One of the possible fields where non-coders ca
+ n get involved is bug triaging. This course will give an overview on bug t
+ riaging and testing. After the course the participant should be able to pi
+ ck their preferred application and start helping in bug triaging. Myriam w
+ ill talk about all the fine details of becoming a bugmaster from choosing 
+ the right project for yourself to figuring out what is missing in a bug re
+ port. This is probably one of the most valuable skills you can bring to KD
+ E right now.\n\nTo sign up\, go to: https://docs.google.com/spreadsheet/vi
+ ewform?formkey=dG5CM1g1WVpHc3BwZWtfVUl1c2lLYlE6MQ
+LOCATION:#kde-tutorials on freenode. (You can use the webchat if you don
+ ’t already have a working IRC client.)
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20110923T020028Z
+LAST-MODIFIED:20110923T020028Z
+DTSTAMP:20120514T054803Z
+UID:jaspld4n9tb6mddn2mo7f1nbcc@google.com
+SUMMARY:WikiSym
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20111003
+DTEND;VALUE=DATE:20111006
+DESCRIPTION:http://www.wikisym.org/
+LOCATION:Mountain View\, CA
+SEQUENCE:0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20110917T013850Z
+LAST-MODIFIED:20110917T013930Z
+DTSTAMP:20120514T054803Z
+UID:rle5b41hn1p9dj62vubhntd8u4@google.com
+SUMMARY:Application deadline for internships for GNOME Outreach Program fo
+ r Women
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20111031
+DTEND;VALUE=DATE:20111101
+CLASS:PUBLIC
+DESCRIPTION:As part of the Outreach Program for Women in GNOME\, the GNOME
+  Foundation is sponsoring at least three internships for women from Decemb
+ er 12\, 2011 to March 12\, 2012. The application deadline is October 31\, 
+ 2011. These internship dates are aimed at the college women in the Souther
+ n Hemisphere who will have a school summer break during this time. However
+ \, any woman who has relevant experience and is available for a full-time 
+ internship is welcome to apply.\n\nFor more information\, see http://www.g
+ nome.org/news/2011/09/new-round-of-outreach-program-for-women-internships/
+ .
+SEQUENCE:2
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20110915T192141Z
+LAST-MODIFIED:20110915T192501Z
+DTSTAMP:20120514T054803Z
+UID:uo1cl08hpr6ioqklf35253u9ds@google.com
+SUMMARY:Women of Vision Awards Banquet
+STATUS:CONFIRMED
+DTSTART:20120510T223000Z
+DTEND:20120511T023000Z
+DESCRIPTION:The Anita Borg Institute Women of Vision Awards\, hosted by th
+ e Anita Borg Institute Board of Trustees\, honors women making significant
+  contributions to technology. One winner is selected in each category: Inn
+ ovation\, Leadership\, and Social Impact.\n\nAnita Borg Top Company for Te
+ chnical Women Award will also be presented at the banquet.\n\nFor more inf
+ ormation\, see: http://anitaborg.org/initiatives/women-of-vision/
+LOCATION:Mission City Ballroom\, Santa Clara Convention Center 5001 Great 
+ America Parkway\, Santa Clara\, CA  95054
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20110915T192323Z
+LAST-MODIFIED:20110915T192323Z
+DTSTAMP:20120514T054803Z
+UID:duc4hat32m900rrsjr442tncs4@google.com
+SUMMARY:Deadline for nominations for Anita Borg Top Company for Technical 
+ Women Award
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20111014
+DTEND;VALUE=DATE:20111015
+DESCRIPTION:For details\, see http://anitaborg.org/top-company-award/
+SEQUENCE:0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20110915T191833Z
+LAST-MODIFIED:20110915T191834Z
+DTSTAMP:20120514T054803Z
+UID:ng15cs59ud35b8u3ht4boo0dus@google.com
+SUMMARY:Deadline for 2012 Women of Vision Awards
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20111212
+DTEND;VALUE=DATE:20111213
+DESCRIPTION:Join us in honoring women who have made significant contributi
+ ons to\ntechnology in the categories of Innovation\, Leadership\, and Soci
+ al\nImpact. Nominations for the 2012 Women of Vision Awards will be accept
+ ed\nuntil December 12\, 2011. And SAVE THE DATE to attend the Women of Vis
+ ion\nAwards Banquet on May 10\, 2012 in Santa Clara\, CA.\n\nFor more info
+ rmation see: http://anitaborg.org/wov/
+SEQUENCE:0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20110913T062200Z
+LAST-MODIFIED:20110913T062200Z
+DTSTAMP:20120514T054803Z
+UID:f30ia8tgt4abl2f4qlf3904n0s@google.com
+SUMMARY:Software Freedom Day 2011 Boston
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20110917
+DTEND;VALUE=DATE:20110918
+DESCRIPTION:http://openhatch.org/wiki/Software_Freedom_Day_2011_Boston
+LOCATION:Boston\, MA
+SEQUENCE:0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20110910T030835Z
+LAST-MODIFIED:20110910T030903Z
+DTSTAMP:20120514T054803Z
+UID:g6q8m3fkna13pj2bbuqj3ee4e4@google.com
+SUMMARY:Deadline for Haecksen call for papers
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20110924
+DTEND;VALUE=DATE:20110925
+DESCRIPTION:The Haecksen miniconf seeks people involving in advocating for
+ \, promoting\nand mentoring women and girls in technology in general and o
+ pen source in\nparticular\, for talks\, panels and collaborative planning 
+ sessions. We are\nseeking people who are involved in organizing\, working 
+ or volunteering for\nany of the following:\n- mentoring programs such as S
+ ummer of Code and GNOME Women's Outreach\n- technical training programs ai
+ med at girls or women\n- women's development groups such as Debian or GNOM
+ E Women\n- women's networking events such as Girl Geek Dinners\n- groups o
+ r individuals highlighting hinderances for women in technical\nculture and
+  careers\, such as Geek Feminism\n\nWe are seeking both short (10 to 20 mi
+ nute) talks and panel participation on\nthese subjects\, please let us kno
+ w whether you are interested in giving a\ntalk\, being on a panel\, or bot
+ h\n\nFor more information\, see: http://haecksen.net/haecksen-call-papers-
+ open
+SEQUENCE:0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20110907T220846Z
+LAST-MODIFIED:20110908T055247Z
+DTSTAMP:20120514T054803Z
+UID:aisgj7rtg2ccmul92rmoe9c8m8@google.com
+SUMMARY:She's Geeky Unconference Twin Cities
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20110923
+DTEND;VALUE=DATE:20110925
+DESCRIPTION:http://shesgeekytc2011.eventbrite.com/
+LOCATION:St Paul\, Minnesota\, USA
+SEQUENCE:0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20110908T005928Z
+LAST-MODIFIED:20110908T005928Z
+DTSTAMP:20120514T054803Z
+UID:1pbu6noa0tt7bqcpde3771q71o@google.com
+SUMMARY:Deadline for The Ubuntu Women Month of Making
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20111007
+DTEND;VALUE=DATE:20111008
+DESCRIPTION:Do you make things? The Ubuntu Women team is running a competi
+ tion to find outstanding projects made by women and connected in some way 
+ to Ubuntu. Write about what you have done (with pictures) and email your e
+ ntry to competition@ubuntu-women.org and we will publish it on the Ubuntu 
+ Women team blog. We will take a fairly broad interpretation of \"making th
+ ings\" they could be physical things or more abstract\, and we will accept
+  fairly tenuous links to Ubuntu. The deadline for submissions is Ada Lovel
+ ace day\, 7th October. Some examples of what you might make would include\
+ n\n    {*} Neat new applications running on Ubuntu\n\n    {*} Cookies\, Ca
+ kes or Cocktails with an Ubuntu theme\n\n    {*} Robots programmed or desi
+ gned on Ubuntu\n\n    {*} Arduino powered circuits designed and programmed
+  on Ubuntu\n\n    {*} Something musical or artistic with Ubuntu tools\n\n 
+    {*} Something utterly different to surprise and delight us \n\nFor deta
+ ils\, see http://wiki.ubuntu-women.org/Events/Competitions/AdaLovelace
+SEQUENCE:0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20110908T005709Z
+LAST-MODIFIED:20110908T005727Z
+DTSTAMP:20120514T054803Z
+UID:rs05d2s9234fu74p87j2najudo@google.com
+SUMMARY:Ada Lovelace Day
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20111007
+DTEND;VALUE=DATE:20111008
+DESCRIPTION:Ada Lovelace Day is an international day of celebration of the
+  achievements of women in science\, technology\, engineering and maths.\n\
+ nFor details\, see http://findingada.com/
+SEQUENCE:1
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20110908T004300Z
+LAST-MODIFIED:20110908T004329Z
+DTSTAMP:20120514T054803Z
+UID:8hidka83fld4tvfrgeso42esik@google.com
+SUMMARY:Grace Hopper Celebration
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20111109
+DTEND;VALUE=DATE:20111112
+DESCRIPTION:For details\, see http://gracehopper.org/2011/
+LOCATION:Portland\, Oregon
+SEQUENCE:0
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20110906T203908Z
+LAST-MODIFIED:20110906T204029Z
+DTSTAMP:20120514T054803Z
+UID:880dhfed0h48f73s1o3tujfa00@google.com
+SUMMARY:Panelists wanted for Open Video Conference
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20110910
+DTEND;VALUE=DATE:20110911
+DESCRIPTION:Panelists are wanted to talk about misognyny on the web\, star
+ ting with the specific example of Rebecca Black. Reply to Greg Dorsainvill
+ e (greg NOSPAM.dorsainville NOSPAM gmail NOSPAM com)
+SEQUENCE:1
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20110902T013808Z
+LAST-MODIFIED:20110902T013808Z
+DTSTAMP:20120514T054803Z
+UID:srb8eph5ir1o47jpqkjnid05pk@google.com
+SUMMARY:Calendar up. Please send events and announcements to share@adainit
+ iative.org
+STATUS:CONFIRMED
+DTSTART:20110901T120000Z
+DTEND:20110901T130000Z
+SEQUENCE:0
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
